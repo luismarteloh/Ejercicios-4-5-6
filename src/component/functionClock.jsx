@@ -28,6 +28,7 @@ export default function FunctionClock() {
       <h2>Hora Actual: {state.fecha.toLocaleTimeString()}</h2>
       <h3>{state.nombre} {state.apellidos}</h3>
       <h1>Edad: {state.edad}</h1>
+      <h3>actualizando</h3>
     </div>
   )
 }

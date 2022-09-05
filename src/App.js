@@ -19,7 +19,6 @@ function App() {
         >
           Learn React
         </a>
-        {/* <Clock/> */}
         <FunctionClock/>
       </header>
     </div>
