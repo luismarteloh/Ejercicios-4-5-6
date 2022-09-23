@@ -17,7 +17,6 @@ export default function FunctionClock() {
     }
 
     useEffect(() => {
-      console.log('actualizado')
       const intervalAge = setInterval(()=>{
         newState();
       },1000);
